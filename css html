@@ -93,3 +93,23 @@
     </footer>
   </body>
 </html>
+<section style="margin-top: 4rem; max-width: 800px;">
+  <h2 style="font-family: 'Anton', sans-serif; font-size: 2rem; color: #AE7C54; margin-bottom: 1rem;">
+    What You’ll Get With KIIQs
+  </h2>
+  <div style="display: flex; flex-direction: column; gap: 2rem;">
+    <div>
+      <h3 style="color: #218490;">Radical Self-Honesty</h3>
+      <p style="color: #ccc;">Face your truth. No more lies to yourself. We go deep and pull the real you out.</p>
+    </div>
+    <div>
+      <h3 style="color: #218490;">Mental Grit</h3>
+      <p style="color: #ccc;">Life hits hard. KIIQs is your corner — sharpening you with resilience that sticks.</p>
+    </div>
+    <div>
+      <h3 style="color: #218490;">Purpose over Noise</h3>
+      <p style="color: #ccc;">No more empty goals. We clear the mental fog and rebuild your direction from the core.</p>
+    </div>
+  </div>
+</section>
+
