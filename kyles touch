@@ -1,0 +1,26 @@
+<section class="bg-[#0A0A0A] text-white min-h-screen flex items-center justify-center px-6 py-12" style="background: radial-gradient(circle at center, rgba(0,0,0,0.9), #0A0A0A);">
+  <div class="max-w-3xl text-center animate-fade-in">
+    <h1 class="text-4xl md:text-6xl font-extrabold mb-6 leading-tight tracking-tight">
+      You’ve been told to get your life together.<br />
+      <span class="text-[#AE7C54]">But right now, who is telling you what’s the first thing you need to look into?</span><br />
+      <span class="text-[#218490]">It starts with you.</span>
+    </h1>
+    <p class="text-xl md:text-2xl text-gray-300 mb-8 font-medium">
+      KIIQs is here. <span class="text-[#218490] font-semibold">No fluff. No lies.</span><br />
+      Just real talk from the core of what you <span class="text-[#13424C] font-bold">can become</span>.
+    </p>
+    <a href="#talk" class="inline-block bg-[#218490] hover:bg-[#13424C] text-white font-bold py-3 px-6 rounded-2xl shadow-lg shadow-[#13424C]/30 transition duration-300">
+      Talk to KIIQs
+    </a>
+  </div>
+</section>
+
+<style>
+@keyframes fade-in {
+  0% { opacity: 0; transform: translateY(30px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+.animate-fade-in {
+  animation: fade-in 1s ease-out forwards;
+}
+</style>
